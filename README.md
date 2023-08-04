@@ -4,13 +4,13 @@ Identification and recognition of Persian license plates of cars from the imageð
 I suggest you use Google Colab or connect Jupyter Notebook to GPU to run this project.
 ____________________________________________________________________________________________________________________________
 # ResultðŸ˜Ž
-## step1 - Plate detection
+## step1 - license Plate detection
 ![11111](https://github.com/mahboobehjami-sh-a/LPR_Persian_Plates/assets/61862522/21ac87dd-7d22-435e-bc98-6ce246bfdfd9)
 
-## step2 - Plate detection (Export Plate From Image)
+## step2 - license Plate detection (Export license Plate From Image)
 ![222222222222](https://github.com/mahboobehjami-sh-a/LPR_Persian_Plates/assets/61862522/f5e0c37a-cf80-4d9b-8133-bd081dc29e4f)
 
-## step3 - Plate Recognition & OCR
+## step3 - license Plate Recognition & OCR
 ![3333333333](https://github.com/mahboobehjami-sh-a/LPR_Persian_Plates/assets/61862522/d6b0beed-a83b-4f3d-8425-a96ef6411684)
 
 ## step4 - Identifying the location of the license plate replacement
