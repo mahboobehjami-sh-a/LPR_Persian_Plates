@@ -15,4 +15,5 @@ ________________________________________________________________________________
 
 ## step4 - Identifying the location of the license plate replacement
 In this sample, the license plate belongs to Mazandaran province.
+
 ![444444444444444](https://github.com/mahboobehjami-sh-a/LPR_Persian_Plates/assets/61862522/ede797d1-1f75-4c19-91eb-5af7eda16bd8)
