@@ -1,4 +1,4 @@
-# LPR_Persian_Plates
+# LPR_Persian_License_Plates
 Identification and recognition of Persian license plates of cars from the image🚗🚓🚕🛺🛻
 
 I suggest you use Google Colab or connect Jupyter Notebook to GPU to run this project.
